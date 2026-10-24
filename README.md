@@ -17,6 +17,14 @@
 
 ---
 
+## 📥 Download
+
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge)](https://stream.mahmudhasan.pro/download/app.apk)
+
+[Download Thunder Stream APK (Latest)](https://stream.mahmudhasan.pro/download/app.apk)
+
+---
+
 ## ✨ Features
 
 | Feature | Description |
@@ -36,22 +44,6 @@
 | 📶 **Data Saver** | Lower quality on mobile data, save bandwidth |
 | 🔒 **App Lock** | Protect your app with a lock |
 | 🌙 **Dark Themes** | Dark, Cinema Dark & AMOLED Obsidian themes |
-
----
-
-## 📥 Download
-
-<div align="center">
-
-### Android — Available Now
-
-[![Download APK](https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android)](https://stream.mahmudhasan.pro/download/app.apk)
-
-**Latest version: v1.6.11** · [Direct APK link](https://stream.mahmudhasan.pro/download/app.apk) · [Versioned link](https://stream.mahmudhasan.pro/download/thunderstream-1.6.11.apk)
-
-> Just download the APK, allow install from unknown sources once, and enjoy.
-
-</div>
 
 ---
 
